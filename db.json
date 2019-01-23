@@ -1,136 +1,115 @@
 {
-    "user":[
+    "gunungDiJawaBarat":[
         {
             "id":1,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":"1"
+            "namaGunung":"Gunung Bukit Tunggul",
+            "ketinggian:2209,
+            "statusAktif":false
         },
         {
             "id":2,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":2
+            "namaGunung":"Burangrang",
+            "Ketinggian":2064,
+            "statusAktif":false
         },
         {
             "id":3,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":3
+            "namaGunung":"Galunggung",
+            "Ketinggian":2158,
+            "statusAktif":true
         },
         {
             "id":4,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":4
+            "namaGunung":"Ciremai",
+            "Ketinggian":3078,
+            "statusAktif":true
         },
         {
             "id":5,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":5
+            "namaGunung":"Gede",
+            "Ketinggian":2958,
+            "statusAktif":false
         },
         {
             "id":6,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":6
+            "namaGunung":"Pangrango",
+            "Ketinggian":3019,
+            "statusAktif":false
         },
         {
             "id":7,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":7
+            "namaGunung":"Papandayan",
+            "Ketinggian":2665,
+            "statusAktif":false
         },
         {
             "id":8,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":8
+            "namaGunung":"Salak",
+            "Ketinggian":2211,
+            "statusAktif":false
         },
         {
             "id":9,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":9
+            "namaGunung":"Tangkuban Perahu",
+            "Ketinggian":2084,
+            "statusAktif":true
         },
         {
             "id":10,
-            "firstName":"Candra",
-            "lastName":"Setiawan",
-            "email":"candrasetiawan@gmail.com",
-            "age":46,
-            "companyId":10
+            "namaGunung":"Kamojang",
+            "Ketinggian":1730,
+            "statusAktif":false
         }
     ],
-    "company":[
+    "lokasi":[
         {
             "id":1,
-            "name":"Candra",
-            "description":"Setiawan"
-        },
+            "namaLokasi":"Bandung Utara",
+            "description":"Gunung bukit tunggulGunung Bukit Tunggul adalah salah satu sisa dari letusan besar Gunung Sunda"        },
         {
             "id":2,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Bandung Utara",
+            "description":"Gunung Burangrang sama seperti Gunung Bukit Tanggul yang merupakan sisa dari letusan Gunung Sunda" 
         },
         {
             "id":3,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Tasikmalaya",
+            "description":"Gunung Galunggung pernah beberapa kali meletus dan merupakan bencana alam yang cukup besar karena menewaskan ribuan jiwa" 
         },
         {
             "id":4,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Terletak di tiga wilayah kabupaten yaitu Kabupaten Cirebon Kabupaten Kuningan dan Kabupaten Majalengka",
+            "description":"Kawasan gunung ini masuk dalam kawasan Taman Nasional Gunung Ceremai yang luasnya mencapai 15000 hektar"
         },
         {
             "id":5,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Terletak di tiga wilayah kabupaten yaitu Kabupaten Sukabumi Kabupaten Cianjur dan Kabupaten Sukabumi",
+            "description":"Gunung Burangrang sama seperti Gunung Bukit Tanggul yang merupakan sisa dari letusan Gunung Sunda"
         },
         {
             "id":6,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Terletak diantara 3 kabupaten di Jawa Barat yaitu kabupaten Bogor kabupaten Sukabumi dan kabupaten Cianjur",
+            "description":"Gunung ini adalah gunung tertinggi kedua di Jawa Barat"
         },
         {
             "id":7,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Berada di Kecamatan Cisurupan dan Kabupaten Garut",
+            "description":"Di gunung ini terdapat beberapa kawah terkenal antara lain Kawah Baru Kawah Mas Kawah Nangklak dan Kawah Manuk"
         },
         {
             "id":8,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Berada di Kabupaten Sukabumi dan Kabupaten Bogor",
+            "description":"Dikelola sebagai Taman Nasional Gunung Halimun-Salak"
         },
         {
             "id":9,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Bandung Utara",
+            "description":"Gunung Tangkuban Perahu dikenal masih cukup aktif hal tersebut bisa dilihat dari adanya gas belerang dan sumber-sumber air panas yang ada di kaki gunung"
         },
         {
             "id":10,
-            "name":"Candra",
-            "description":"Setiawan"
+            "namaLokasi":"Garut",
+            "description":"Gunung Kamojang sendiri banyak dikenal dengan nama Kawah Kamojang karena banyak memiliki kawah sumber panas bumi seperti Kawah Manuk Kawah Kereta Api Kawah Hujan dan Kawah Beureum"
         }
     ]
     
