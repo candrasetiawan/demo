@@ -64,6 +64,7 @@
     "lokasi":[
         {
             "id":1,
+            "namaGunung":"Gunung Bukit Tunggul",
             "namaLokasi":"Bandung Utara",
             "description":"Gunung bukit tunggulGunung Bukit Tunggul adalah salah satu sisa dari letusan besar Gunung Sunda"        },
         {
