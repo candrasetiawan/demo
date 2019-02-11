@@ -3,7 +3,7 @@
         {
             "id":1,
             "namaGunung":"Bukit Tunggul",
-            "ketinggian:":"2209 m",
+            "ketinggian":"2209 m",
             "statusAktif":false,
             "lokasiID":1
         },
@@ -17,56 +17,56 @@
         {
             "id":3,
             "namaGunung":"Tangkuban Perahu",
-            "Ketinggian":"2084 m",
+            "ketinggian":"2084 m",
             "statusAktif":true,
             "lokasiID":1
         },
         {
             "id":4,
             "namaGunung":"Gede",
-            "Ketinggian":"2958 m",
+            "ketinggian":"2958 m",
             "statusAktif":false,
             "lokasiID":2
         },
         {
             "id":5,
             "namaGunung":"Pangrango",
-            "Ketinggian":"3019 m",
+            "ketinggian":"3019 m",
             "statusAktif":false,
             "lokasiID":2
         },
         {
             "id":6,
             "namaGunung":"Salak",
-            "Ketinggian":"2211 m",
+            "ketinggian":"2211 m",
             "statusAktif":false,
             "lokasiID":2
         },
         {
             "id":7,
             "namaGunung":"Galunggung",
-            "Ketinggian":"2158 m",
+            "ketinggian":"2158 m",
             "statusAktif":true,
             "lokasiID":3
         },
         {
             "id":8,
             "namaGunung":"Ciremai",
-            "Ketinggian":"3078 m",
+            "ketinggian":"3078 m",
             "statusAktif":true,
             "lokasiID":4
         },
         {
             "id":9,
             "namaGunung":"Papandayan",
-            "Ketinggian":"2665 m",
+            "ketinggian":"2665 m",
             "statusAktif":false,
             "lokasiID":5
         },
         {
             "id":10,
             "namaGunung":"Kamojang",
-            "Ketinggian":"1730 m",
+            "ketinggian":"1730 m",
             "statusAktif":false,
             "lokasiID":5
         }
